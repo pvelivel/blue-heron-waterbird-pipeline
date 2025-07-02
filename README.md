@@ -30,6 +30,8 @@ The entire pipeline was built in the AWS ecosystem:
 * ✅ **Metadata cataloged using AWS Glue Crawlers**
 * ✅ **Data queried via Amazon Athena**
 * ✅ **Dashboards created with Tableau from Athena outputs**
+![blue_heron_architecture](https://github.com/user-attachments/assets/a4952bca-6850-4c94-9151-58f5f19e277e)
+
 
 ---
 
